@@ -1,0 +1,16 @@
+[
+	{
+		"1": {
+			"browsername": "edge",
+			"browserversion": "19.8",
+			"os": "Linux",
+			"os.version": "9"
+		},
+		"2": {
+			"browsername": "chrome",
+			"browserversion": "1114.10",
+			"os": "window",
+			"os.version": "10"
+		}
+	}
+]
